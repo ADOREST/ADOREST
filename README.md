@@ -53,8 +53,7 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
 <div align="center">
   
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3AKAeVKp5v)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=globe&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:littlealibusiness@gmail.com)
 
 </div>
 
@@ -90,3 +89,4 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
   <img src="https://komarev.com/ghpvc/?username=ADOREST&style=flat-square&color=8B5CF6" alt="Profile Views" />
 
 </div>
+
