@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Adorest;Web+Designer+%26+Developer;FiveM+%26+RedM+Script+Developer;I+love+cats" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Adorest;Web+Designer+%26+FiveM+%26+RedM+Server+Developer;I+love+CATs" alt="Typing SVG" />
 </div>
 
 
@@ -81,9 +81,11 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
   
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3AKAeVKp5v)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:littlealibusiness@gmail.com)
+
 <img src="https://komarev.com/ghpvc/?username=ADOREST&style=flat-square&color=8B5CF6" alt="Profile Views" />
 
 </div>
+
 
 
 
