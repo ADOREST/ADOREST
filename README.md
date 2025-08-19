@@ -64,7 +64,7 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
   
 ### 🎭 Favorite Quote
   
-> *"I have experienced all the bitterness in life. And the most bitter of all is placing hope in people."* - **Ali inb Abi Thalib**
+> *"I have experienced all the bitterness in life. And the most bitter of all is placing hope in people."* - **Ali ibn Abi Thalib**
 
 > *"The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion."* - **Albert Camus**
 
@@ -88,4 +88,5 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ADOREST&style=flat-square&color=8B5CF6" alt="Profile Views" />
+
 </div>
