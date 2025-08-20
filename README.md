@@ -65,8 +65,11 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADOREST&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADOREST&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ADOREST&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
 </div>
 
 <div align="center">
@@ -85,6 +88,7 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
 <img src="https://komarev.com/ghpvc/?username=ADOREST&style=flat-square&color=8B5CF6" alt="Profile Views" />
 
 </div>
+
 
 
 
