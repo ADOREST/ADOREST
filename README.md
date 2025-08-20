@@ -89,7 +89,15 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
 
 </div>
 
+---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADOREST/ADOREST/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADOREST/ADOREST/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LYRYCAL/ADOREST/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
 
