@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Adorest;Web+Designer+%26+FiveM+%26+RedM+Server+Developer;I+love+CATs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Adorest;Web+Designer+%26+FiveM+%26+RedM+Server+Developer;I+love+CATs;CATs+is+my+G.." alt="Typing SVG" />
 </div>
 
 
@@ -89,15 +89,6 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
 
 </div>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADOREST/ADOREST/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADOREST/ADOREST/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LYRYCAL/ADOREST/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 
 
