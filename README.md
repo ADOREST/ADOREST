@@ -80,11 +80,12 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
 <div align="center">
   
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3AKAeVKp5v)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mailto:littlealibusiness@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=littlealibusiness@gmail.com))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=littlealibusiness@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=ADOREST&style=flat-square&color=8B5CF6" alt="Profile Views" />
 
 </div>
+
 
 
 
