@@ -58,6 +58,8 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
 
 > *"In this world, is the destiny of mankind controlled by some transcendental entity or law? Is it like the hand of God hovering above? At least it is true that man has no control, even over his own will."* - **Berserk**
 
+> *"I Tried. In The End... I Did."* - **Arthur Morgan**
+
 </div>
 
 ---
@@ -88,6 +90,7 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
 <img src="https://komarev.com/ghpvc/?username=ADOREST&style=flat-square&color=8B5CF6" alt="Profile Views" />
 
 </div>
+
 
 
 
