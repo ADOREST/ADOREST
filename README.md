@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=Hello%2C+Moodasucka..;.;..;...;I+love+CAT;CAT+is+my+G..;.;..;...;&animation=fade" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/ADOREST/ADOREST/refs/heads/main/Adorest.png" alt="Banner" width="600" height="600">
 </div>
-
 
 ---
 
 ### 🎨 About Me
 
-I'm a passionate **Web Designer & Developer** who specializes in creating immersive **FiveM/RedM server experiences**. When I'm not crafting digital worlds, you'll find me lost in the dark and intricate stories of **Junji Ito**, the epic saga of **Berserk**, and the grand adventure of **One Piece**.
+I'm a passionate **Web Designer & Developer** who specializes in creating immersive **FiveM/RedM server experiences**. When I'm not crafting digital worlds, you'll find me lost in the dark and intricate stories of **Junji Ito**, the raw intensity of **Baki**, the epic saga of **Berserk**, and the grand adventure of **One Piece**.
 
 ---
 
@@ -24,9 +23,10 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
 
 <div align="center">
   
+![Baki](https://img.shields.io/badge/-Baki-FF6B35?style=for-the-badge&logo=book&logoColor=white)
 ![Junji Ito](https://img.shields.io/badge/-Junji%20Ito-000000?style=for-the-badge&logo=book&logoColor=white)
 ![Berserk](https://img.shields.io/badge/-Berserk-8B0000?style=for-the-badge&logo=book&logoColor=white)
-![One Piece](https://img.shields.io/badge/-One%20Piece-FF6B35?style=for-the-badge&logo=book&logoColor=white)
+![One Piece](https://img.shields.io/badge/-One%20Piece-F3E04C?style=for-the-badge&logo=book&logoColor=white)
 
 </div>
 
@@ -90,15 +90,3 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
 <img src="https://komarev.com/ghpvc/?username=ADOREST&style=flat-square&color=8B5CF6" alt="Profile Views" />
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
