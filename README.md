@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ADOREST/ADOREST/refs/heads/main/Adorest.png" alt="Banner" width="600" height="600">
+  <img src="https://raw.githubusercontent.com/ADOREST/ADOREST/refs/heads/main/banner.png" alt="Banner" width="600" height="600">
 </div>
 
 ---
@@ -90,3 +90,4 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
 <img src="https://komarev.com/ghpvc/?username=ADOREST&style=flat-square&color=8B5CF6" alt="Profile Views" />
 
 </div>
+
