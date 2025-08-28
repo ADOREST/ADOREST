@@ -10,7 +10,7 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
 
 ---
 
-### 🎯 What I'm Working On
+### 🎯 I'm Working On
 
 - 🌐 **Web Design Projects** - Creating beautiful, responsive websites
 - 🎮 **FiveM/RedM Development** - Building immersive server experiences
@@ -19,14 +19,16 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
 
 ---
 
-### 🎭 Current Obsessions
+### 🎭 Obsessions
 
 <div align="center">
   
 ![Baki](https://img.shields.io/badge/-Baki-FF6B35?style=for-the-badge&logo=book&logoColor=white)
 ![Junji Ito](https://img.shields.io/badge/-Junji%20Ito-000000?style=for-the-badge&logo=book&logoColor=white)
 ![Berserk](https://img.shields.io/badge/-Berserk-8B0000?style=for-the-badge&logo=book&logoColor=white)
-![One Piece](https://img.shields.io/badge/-One%20Piece-F3E04C?style=for-the-badge&logo=book&logoColor=white)
+![One Piece](https://img.shields.io/badge/-One%20Piece-F3E04C?style=for-the-badge&logo=book&logoColor=white)<br>
+![Deathmetal](https://img.shields.io/badge/-Deathmetal-8B0000?style=for-the-badge&logo=book&logoColor=white)
+![Harley Davidson](https://img.shields.io/badge/-Harley%20Davidson-000000?style=for-the-badge&logo=book&logoColor=white)
 
 </div>
 
@@ -58,9 +60,9 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
   <img src="https://github-readme-stats.vercel.app/api?username=ADOREST&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=ADOREST&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+</div> -->
 
 ---
 
@@ -90,4 +92,5 @@ I'm a passionate **Web Designer & Developer** who specializes in creating immers
 <img src="https://komarev.com/ghpvc/?username=ADOREST&style=flat-square&color=8B5CF6" alt="Profile Views" />
 
 </div>
+
 
